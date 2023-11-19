@@ -7,13 +7,17 @@ This repository contains an advanced machine learning model designed for reading
 **Key Features**
 
 Accurate ID Card Analysis: Utilizes state-of-the-art machine learning algorithms for precise interpretation.
+
 Information Extraction: Extracts essential details from identity cards to facilitate identity verification.
+
 National Informatics Center Project: Developed as part of a project for the National Informatics Center.
 
 **Usage**
 
 Clone the repository to your local machine.
+
 Install the required dependencies as outlined in the documentation.
+
 Follow the provided instructions to implement and integrate the model into your identity verification system.
 
 **Contributions**
